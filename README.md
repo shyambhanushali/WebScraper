@@ -2,7 +2,7 @@
 A script that prints out a list of all EXTERNAL references in the HTML response to an HTTP/S request. 
 
 # Installing all dependencies
-pip install requirements.txt or pip3 install requirements.txt
+pip install -r requirements.txt or pip3 install -r requirements.txt
 
 # Executing the script
 
